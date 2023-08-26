@@ -29,7 +29,7 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
 
 """
-1. 需要先导入pyqtSignal；
+1. 需要先导入Signal；
 
 2. 实例化一个自定义的信号；
 
