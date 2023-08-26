@@ -1,0 +1,52 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.7" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="learnPyside.pyside2_test_dialog.test_dialog" />
+          <option value="learnPyside.open_import_dialog.test_dialog" />
+          <option value="learnPyside.open_import_dialog.open_import_dialog" />
+          <option value="learnPyside.modal_dialogs.test_dialog" />
+          <option value="learnPyside.output_Resolution.test_dialog" />
+          <option value="learnPyside.output_Resolution.output_resolution_dialog" />
+          <option value="learnPyside.multi_select.multi_select_dialog" />
+          <option value="learnPyside.table_example_dialog.test_dialog" />
+          <option value="learnPyside.table_example_dialog.table_example_dialog" />
+          <option value="learnPyside.table_example_dialog.value" />
+          <option value="learnPyside.custom_cell_widgets.test_dialog" />
+          <option value="learnPyside.spin_box_dialog.spinbox_Dialog" />
+          <option value="learnPyside.tree_view_dialog.tree_view_dialog" />
+          <option value="learnPyside.simple_outliner.simpler_outliner" />
+          <option value="learnPyside.progressdialog_example.progress_test_dialog" />
+          <option value="learnPyside.qwidget_test.test_dialog" />
+          <option value="learnPyside.image_lable_example.open_import_dialog" />
+          <option value="learnPyside.custom_image_widget.open_import_dialog" />
+          <option value="xwq_rename_tool.test_dialog" />
+          <option value="xwq_rename_tool.rename_dialog" />
+          <option value="xwq_ballrig_tool.ballrig_dialog" />
+          <option value="test_qss.test_dialog" />
+          <option value="xwq_modelchecker_tool.xwq_modelChecker_ui.*" />
+          <option value="modelChecker.modelChecker_UI.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
