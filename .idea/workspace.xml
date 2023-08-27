@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="更新目录结构">
-      <change afterPath="$PROJECT_DIR$/icons/apple.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/7_各种按钮/07.1_QPushButton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/7_各种按钮/07.2_QToolButton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/6_案例登录框/5_登录框小程序.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/5_案例登录框/5_登录框小程序.py" afterDir="false" />
+    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="各种button">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693128658018</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="各种button">
+      <created>1693133685499</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693133685499</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +313,7 @@
     <MESSAGE value="修改文件目录结构" />
     <MESSAGE value="QTextEdit QTextBrowser" />
     <MESSAGE value="更新目录结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新目录结构" />
+    <MESSAGE value="各种button" />
+    <option name="LAST_COMMIT_MESSAGE" value="各种button" />
   </component>
 </project>
