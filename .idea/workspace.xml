@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="布局管理">
-      <change afterPath="$PROJECT_DIR$/part1/04.1各种类型的消息框.py" afterDir="false" />
+    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="消息框">
+      <change afterPath="$PROJECT_DIR$/part1/05_登录框小程序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,28 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.04.2与消息框交互">
-    <configuration name="03.3_混合VBox与HBox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPySide2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/03.3_混合VBox与HBox.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.05_登录框小程序">
     <configuration name="03.4_表单布局From" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,13 +126,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="05_登录框小程序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPySide2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/05_登录框小程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_登录框小程序" />
         <item itemvalue="Python.04.2与消息框交互" />
         <item itemvalue="Python.04.1各种类型的消息框" />
         <item itemvalue="Python.03.5_网格布局Grid" />
         <item itemvalue="Python.03.4_表单布局From" />
-        <item itemvalue="Python.03.3_混合VBox与HBox" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693126017185</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="消息框">
+      <created>1693126580932</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693126580932</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +264,7 @@
     <MESSAGE value="自定义信号" />
     <MESSAGE value="窗口/线程间通信" />
     <MESSAGE value="布局管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="布局管理" />
+    <MESSAGE value="消息框" />
+    <option name="LAST_COMMIT_MESSAGE" value="消息框" />
   </component>
 </project>
