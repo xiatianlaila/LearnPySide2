@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="修改文件目录结构">
+    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="更新目录结构">
+      <change afterPath="$PROJECT_DIR$/icons/apple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/7_各种按钮/07.1_QPushButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/7_各种按钮/07.2_QToolButton.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/6_文本编辑框QTextEdit和文本浏览框QTextBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/6_文本编辑框QTextEdit和文本浏览框QTextBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/6_案例登录框/5_登录框小程序.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/5_案例登录框/5_登录框小程序.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,66 +35,26 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\10_project\py_project\LearnPySide2" />
+      <recent name="E:\10_project\py_project\LearnPySide2\part1\6_文本编辑框与文本浏览框" />
+      <recent name="E:\10_project\py_project\LearnPySide2\part1\6_案例登录框" />
       <recent name="E:\10_project\py_project\LearnPySide2\part1\4_消息框" />
       <recent name="E:\10_project\py_project\LearnPySide2\part1\1_初见" />
-      <recent name="E:\10_project\py_project\LearnPySide2\part1\布局管理" />
-      <recent name="E:\10_project\py_project\LearnPySide2\part1\2_信号与槽" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6_QTextEdit和QTextBrowser">
-    <configuration name="03.5_网格布局Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPySide2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\布局管理\03.5_网格布局Grid.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04.1各种类型的消息框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPySide2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\4_消息框\04.1各种类型的消息框.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.07.2_QToolButton">
     <configuration name="04.2与消息框交互" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +68,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\4_消息框\04.2与消息框交互.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07.1_QPushButton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPySide2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/7_各种按钮" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/7_各种按钮/07.1_QPushButton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07.2_QToolButton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPySide2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/7_各种按钮" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/7_各种按钮/07.2_QToolButton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.07.2_QToolButton" />
+        <item itemvalue="Python.07.1_QPushButton" />
         <item itemvalue="Python.6_QTextEdit和QTextBrowser" />
         <item itemvalue="Python.05_登录框小程序" />
         <item itemvalue="Python.04.2与消息框交互" />
-        <item itemvalue="Python.04.1各种类型的消息框" />
-        <item itemvalue="Python.03.5_网格布局Grid" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693127976863</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="QTextEdit QTextBrowser">
+      <created>1693128467949</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693128467949</updated>
+    </task>
+    <task id="LOCAL-00015" summary="更新目录结构">
+      <created>1693128658018</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693128658018</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +299,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加gitigone,01窗口.py文件" />
     <MESSAGE value="更新" />
     <MESSAGE value="修改注释" />
@@ -288,6 +308,8 @@
     <MESSAGE value="布局管理" />
     <MESSAGE value="消息框" />
     <MESSAGE value="修改文件目录结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改文件目录结构" />
+    <MESSAGE value="QTextEdit QTextBrowser" />
+    <MESSAGE value="更新目录结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新目录结构" />
   </component>
 </project>
