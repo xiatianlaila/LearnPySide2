@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="自定义信号">
-      <change afterPath="$PROJECT_DIR$/part1/02.8_窗口间通信.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/02.9_线程间通信.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="窗口/线程间通信">
+      <change afterPath="$PROJECT_DIR$/part1/03.1布局管理VBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/03.2_水平布局HBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/03.3_混合VBox与HBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/03.4_表单布局From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/03.5_网格布局Grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +45,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.02.9_线程间通信">
-    <configuration name="02.5_自定义信号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03.5_网格布局Grid">
+    <configuration name="03.1布局管理VBox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/02.5_自定义信号.py" />
+      <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\03.1布局管理VBox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.6_让自定义信号携带值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.2_水平布局HBox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/02.6_让自定义信号携带值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/03.2_水平布局HBox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.7_自定义信号的重载版本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.3_混合VBox与HBox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/02.7_自定义信号的重载版本.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/03.3_混合VBox与HBox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.8_窗口间通信" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.4_表单布局From" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/02.8_窗口间通信.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/03.4_表单布局From.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.9_线程间通信" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.5_网格布局Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/02.9_线程间通信.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/03.5_网格布局Grid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02.9_线程间通信" />
-        <item itemvalue="Python.02.8_窗口间通信" />
-        <item itemvalue="Python.02.7_自定义信号的重载版本" />
-        <item itemvalue="Python.02.6_让自定义信号携带值" />
-        <item itemvalue="Python.02.5_自定义信号" />
+        <item itemvalue="Python.03.5_网格布局Grid" />
+        <item itemvalue="Python.03.4_表单布局From" />
+        <item itemvalue="Python.03.3_混合VBox与HBox" />
+        <item itemvalue="Python.03.2_水平布局HBox" />
+        <item itemvalue="Python.03.1布局管理VBox" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693056724083</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="窗口/线程间通信">
+      <created>1693125399768</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693125399768</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +252,7 @@
     <MESSAGE value="更新" />
     <MESSAGE value="修改注释" />
     <MESSAGE value="自定义信号" />
-    <option name="LAST_COMMIT_MESSAGE" value="自定义信号" />
+    <MESSAGE value="窗口/线程间通信" />
+    <option name="LAST_COMMIT_MESSAGE" value="窗口/线程间通信" />
   </component>
 </project>
