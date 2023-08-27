@@ -49,7 +49,7 @@
       <recent name="E:\10_project\py_project\LearnPySide2\part1\2_信号与槽" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6_文本编辑框QTextEdit和文本浏览框QTextBrowser">
+  <component name="RunManager" selected="Python.6_QTextEdit和QTextBrowser">
     <configuration name="03.5_网格布局Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\5_登录框小程序.py" />
+      <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\6_案例登录框\5_登录框小程序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_文本编辑框QTextEdit和文本浏览框QTextBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6_QTextEdit和QTextBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/6_文本编辑框QTextEdit和文本浏览框QTextBrowser.py" />
+      <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\6_文本编辑框与文本浏览框\6_QTextEdit和QTextBrowser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6_文本编辑框QTextEdit和文本浏览框QTextBrowser" />
+        <item itemvalue="Python.6_QTextEdit和QTextBrowser" />
         <item itemvalue="Python.05_登录框小程序" />
         <item itemvalue="Python.04.2与消息框交互" />
         <item itemvalue="Python.04.1各种类型的消息框" />
