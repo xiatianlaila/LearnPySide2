@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="登录框小程序">
+    <list default="true" id="8f614332-3252-4f18-856e-f2836aa1b7d6" name="变更" comment="修改文件目录结构">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/6_文本编辑框QTextEdit和文本浏览框QTextBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/6_文本编辑框QTextEdit和文本浏览框QTextBrowser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,28 +41,15 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.05_登录框小程序">
-    <configuration name="03.4_表单布局From" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPySide2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\10_project\py_project\LearnPySide2\part1\布局管理\03.4_表单布局From.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\10_project\py_project\LearnPySide2\part1\4_消息框" />
+      <recent name="E:\10_project\py_project\LearnPySide2\part1\1_初见" />
+      <recent name="E:\10_project\py_project\LearnPySide2\part1\布局管理" />
+      <recent name="E:\10_project\py_project\LearnPySide2\part1\2_信号与槽" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.6_文本编辑框QTextEdit和文本浏览框QTextBrowser">
     <configuration name="03.5_网格布局Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPySide2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,13 +134,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6_文本编辑框QTextEdit和文本浏览框QTextBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPySide2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/6_文本编辑框QTextEdit和文本浏览框QTextBrowser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6_文本编辑框QTextEdit和文本浏览框QTextBrowser" />
         <item itemvalue="Python.05_登录框小程序" />
         <item itemvalue="Python.04.2与消息框交互" />
         <item itemvalue="Python.04.1各种类型的消息框" />
         <item itemvalue="Python.03.5_网格布局Grid" />
-        <item itemvalue="Python.03.4_表单布局From" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693127250339</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="登录框小程序">
+      <created>1693127976863</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693127976863</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +287,7 @@
     <MESSAGE value="窗口/线程间通信" />
     <MESSAGE value="布局管理" />
     <MESSAGE value="消息框" />
-    <MESSAGE value="登录框小程序" />
-    <option name="LAST_COMMIT_MESSAGE" value="登录框小程序" />
+    <MESSAGE value="修改文件目录结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改文件目录结构" />
   </component>
 </project>
