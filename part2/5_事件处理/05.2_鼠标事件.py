@@ -84,4 +84,10 @@ if __name__ == "__main__":
 7. mouseReleaseEvent()为鼠标释放时所触发的响应函数，同理，在函数中，我们通过button()方法来确认被释放的键，然后用button_label显示被释放的键；
 
 8. mouseDoubleClickEvent()为鼠标被双击时所触发的响应函数，同理，在函数中，我们通过button()方法来确认被双击的键，然后用button_label显示被双击的键；
+
+setMouseTracking(True)可以让窗口时刻追踪鼠标，而不需要在鼠标被按下时才会进行追踪；
+
+x()和y()获取鼠标相对于窗口部件的坐标值，而globalX()和globalY()获取鼠标相对于显示屏窗口的坐标值；
+
+button()方法用于获取鼠标被按下或释放的键，key()方法用于获取键盘被按下或释放的键。
 """
