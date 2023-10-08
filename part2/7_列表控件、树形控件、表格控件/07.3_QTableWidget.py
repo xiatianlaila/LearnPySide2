@@ -1,7 +1,21 @@
 # -*- coding: utf-8 -*-
-"""
-@Time    : 2023/10/8 16:01
-@Author  : haofeng.xia
-@File    : 07.3_QTableWidget.py
-@Description:
-"""
+import sys
+from PySide2.QtCore import Qt
+from PySide2.QtWidgets import QApplication, QTableWidget, QTableWidgetItem
+
+
+class Demo(QTableWidget):                               # 1
+    def __init__(self):
+        super(Demo, self).__init__()
+        self.setRowCount(6)                             # 2
+        self.setColumnCount(6)
+        # self.table = QTableWidget(6, 6, self)
+
+        print(self.)
+
+
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    demo = Demo()
+    demo.show()
+    sys.exit(app.exec_())
